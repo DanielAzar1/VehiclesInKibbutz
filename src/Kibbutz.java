@@ -4,7 +4,7 @@ public class Kibbutz {
 
     public Kibbutz()
     {
-        this.listKibbutz = new Vehicles[500];
+        this.listKibbutz = new Vehicles[50];
         this.currVehicles = 0;
     }
 
